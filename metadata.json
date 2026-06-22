@@ -1,0 +1,6 @@
+{
+  "name": "Green Life Moringa",
+  "description": "A premium marketing and e-commerce portal for Green Life Moringa, featuring a curated apothecary storefront, step-by-step secure checkout sandbox, interactive nutritional benefits explorer, and wellness publications blog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
